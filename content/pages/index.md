@@ -45,9 +45,11 @@ sections:
           - Facebppk Pages & Groups - Instagram Pages - LinkedIn Pages -
           Wikipedia - Citations Célèbres - Webtoon
       - title: Autres Outils
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Trello - Slack - Monday.com - ClickUp - Google Slides - Google Drive -
+          Google My Business - Google Docs - Google Sheet - Microsoft Word -
+          Microsoft Power Point - Microsoft Excell - Odoo - Ecwid - Mobitrix 24
+          - Forest.app - Wrike - Hibox - Miro - Nutcache
   - section_id: testimonials
     type: section_testimonials
     title: Ce Qu'Ils Disent De Moi
