@@ -34,7 +34,7 @@ sections:
           Canva - Adobe XD - Figma - Photopea - Adobe Photoshop - Adobe Premiere
           - Adobe After Effects - Filmora - Adobe Spark Post - InVision App -
           VideoScribe - Plotagon
-      - title: Service Title
+      - title: Développement Web
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
