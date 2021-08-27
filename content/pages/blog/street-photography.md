@@ -1,5 +1,5 @@
 ---
-title: 'Obtenir un an '
+title: Obtenir un an gratuit pour Canva Pro
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
