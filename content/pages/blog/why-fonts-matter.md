@@ -1,5 +1,5 @@
 ---
-title: Les outils importants pour un Designer
+title: Les outils importants pour un Graphic Designer
 excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
