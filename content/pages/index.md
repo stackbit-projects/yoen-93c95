@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Mbôlô, je suis Yoen Agondjo, <br> UI/UX Designer'
+    title: 'Mbôlô, je suis Yoen Agondjo,  UI/UX Designer'
     content: >
       J'améliore l'interface et l'expérience de mes utilisateurs en concevant
       des produits à la fois agréables et ergonomiques !
