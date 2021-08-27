@@ -16,7 +16,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Mes Récents Travaux
-    subtitle: In
+    subtitle: 'Flyers, logos, sites Web'
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
