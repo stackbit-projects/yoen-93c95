@@ -34,6 +34,7 @@ sections:
           Canva - Adobe XD - Figma - Photopea - Adobe Photoshop - Adobe Premiere
           - Adobe After Effects - Filmora - Adobe Spark Post - InVision App -
           VideoScribe - Plotagon
+        image: /images/Start X 241 - Last Call.png
       - title: Développement Web
         content: >
           HTML - CSS - Bootstrap - WordPress - Wix - Webflow - Webself - Jekyll
