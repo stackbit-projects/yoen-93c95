@@ -30,10 +30,10 @@ sections:
     is_numbered: true
     grid_items:
       - title: Infographie
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Canva - Adobe XD - Figma - Photopea - Adobe Photoshop - Adobe Premiere
+          - Adobe After Effects - Filmora - Adobe Spark Post - InVision App -
+          VideoScribe - Plotagon
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
