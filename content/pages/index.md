@@ -23,7 +23,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Ce Que Je Sais Faire
-    subtitle: 'En tant que Geek, il y a certains domaines que je '
+    subtitle: 'En tant que Geek, il y a certains domaines dans lesquels '
     col_number: two
     is_numbered: true
     grid_items:
