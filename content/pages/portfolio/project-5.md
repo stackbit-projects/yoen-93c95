@@ -5,7 +5,7 @@ date: '2019-01-05'
 thumb_image: /images/Start X 241 - LinkedIn.png
 thumb_image_alt: Flyer de Startup School
 image: /images/Start X 241 - LinkedIn.png
-image_alt: A white gamepad on a green background
+image_alt: Flyer d'un programme de l'entreprise Start X 241
 seo:
   title: Project Title 5
   description: This is the project 5 description
