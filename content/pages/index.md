@@ -40,10 +40,10 @@ sections:
           - Ruby On Rails - Landen - Stackabl - Weebly - Google Sites -
           Dreamweaver - Pinegrow - Elementor - Divi - WooCommerce
       - title: Rédacteur Web
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          AfriTubes - YouScribe - Wattpad - Medium - Blogger - Write.as - Tumblr
+          - Facebppk Pages & Groups - Instagram Pages - LinkedIn Pages -
+          Wikipedia - Citations Célèbres - Webtoon
       - title: Service title
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
