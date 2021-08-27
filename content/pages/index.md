@@ -49,7 +49,6 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Ce Qu'Ils Disent De Moi
-    subtitle: An optional subtitle of the section
     col_number: three
     testimonials:
       - author: Sean Salazar
