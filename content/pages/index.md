@@ -9,7 +9,7 @@ sections:
       J'améliore l'interface et l'expérience de mes utilisateurs en concevant
       des produits à la fois agréables et ergonomiques !
     actions:
-      - label: Contactez-Moi
+      - label: Contactez-Moi !
         url: /contact
         style: button
   - section_id: latest-projects
