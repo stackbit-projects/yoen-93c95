@@ -19,7 +19,7 @@ sections:
     subtitle: >-
       Flyers - Logos - Sites Web - Brochures - Bannières Publicitaires -
       Prototypes ...
-    projects_number: -11
+    projects_number: 6
     view_all_label: Voir Tout !
     view_all_url: portfolio
   - section_id: services
