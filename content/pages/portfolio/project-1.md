@@ -4,7 +4,7 @@ subtitle: Campagne du programme WIA
 date: '2019-05-10'
 thumb_image: /images/WIA - Flyer Campaign.png
 thumb_image_alt: Flyer d'une campagne de WIA
-image: images/1.jpg
+image: /images/WIA - Flyer Campagne.png
 image_alt: Flyer d'une campagne de WIA
 seo:
   title: Project Title 1
