@@ -1,6 +1,6 @@
 ---
 title: Brochure d'ESCT Gabon
-subtitle: 'Brochure de présentation des '
+subtitle: Brochure de présentation des filières d'ESCT Gabon
 date: '2018-12-18'
 thumb_image: images/6_thumb.jpg
 thumb_image_alt: A handheld game console on a yellow background
