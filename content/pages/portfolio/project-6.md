@@ -1,5 +1,5 @@
 ---
-title: Brochure d
+title: Brochure d'ESCT Gabon
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image: images/6_thumb.jpg
