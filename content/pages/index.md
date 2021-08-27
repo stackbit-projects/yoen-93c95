@@ -16,7 +16,9 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Mes Récents Travaux
-    subtitle: 'Flyers - Logos - Sites Web - Brochures - '
+    subtitle: >-
+      Flyers - Logos - Sites Web - Brochures - Bannières Publicitaires -
+      Prototypes
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
