@@ -4,7 +4,7 @@ subtitle: Logo de lancement de Ntchaga
 date: '2019-04-30'
 thumb_image: /images/Logo - NTCHAGA (7).png
 thumb_image_alt: Logo de Ntchaga
-image: images/2.jpg
+image: /images/Logo - NTCHAGA (7).png
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2
