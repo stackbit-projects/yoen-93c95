@@ -1,5 +1,5 @@
 ---
-title: Project Title 5
+title: Flyer de Startup School
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
 thumb_image: /images/Start X 241 - LinkedIn.png
