@@ -44,7 +44,7 @@ sections:
           AfriTubes - YouScribe - Wattpad - Medium - Blogger - Write.as - Tumblr
           - Facebppk Pages & Groups - Instagram Pages - LinkedIn Pages -
           Wikipedia - Citations Célèbres - Webtoon
-      - title: Service title
+      - title: Autres Outils
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
