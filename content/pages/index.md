@@ -74,7 +74,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Mes Derniers Articles
-    subtitle: J'aborde tou
+    subtitle: 'J''aborde tout type de sujets '
     posts_number: 3
     col_number: three
     actions:
