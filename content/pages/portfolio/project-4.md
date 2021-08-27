@@ -1,6 +1,6 @@
 ---
 title: Flyer de HPB Agro-Consulting
-subtitle: Optional Project Subtitle
+subtitle: 'Flyer '
 date: '2019-02-26'
 thumb_image: /images/HPB Agro-Consulting - Flyer – 1.png
 thumb_image_alt: Flyer de HPB Agro-Consulting
