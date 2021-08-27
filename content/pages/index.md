@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Mbôlô, je suis Yoen Agondjo, UI/UX Designer'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      J'améliore l'interface et l'expérience de mes utilisateurs en concevant
+      des produits à la fois agréables et ergonomiques !
     actions:
       - label: Venez discuter avec moi
         url: /contact
