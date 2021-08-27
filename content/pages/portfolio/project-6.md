@@ -5,7 +5,7 @@ date: '2018-12-18'
 thumb_image: /images/1.png
 thumb_image_alt: Brochure d'ESCT Gabon
 image: /images/1.png
-image_alt: 'Brochure de présentation des '
+image_alt: Brochure de présentation des filières d'ESCT Gabon
 seo:
   title: Project Title 6
   description: This is the project 6 description
