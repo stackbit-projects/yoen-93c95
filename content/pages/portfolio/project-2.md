@@ -5,7 +5,7 @@ date: '2019-04-30'
 thumb_image: /images/Logo - NTCHAGA (7).png
 thumb_image_alt: Logo de Ntchaga
 image: /images/Logo - NTCHAGA (7).png
-image_alt: An orange on a blue background
+image_alt: Logo de Ntchaga
 seo:
   title: Project Title 2
   description: This is the project 2 description
