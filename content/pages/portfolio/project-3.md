@@ -1,6 +1,6 @@
 ---
 title: Flyer de WIA Mentorship
-subtitle: Optional Project Subtitle
+subtitle: Flyer d'un programme de mentoring féminin
 date: '2019-04-08'
 thumb_image: /images/WIA Flyer.png
 thumb_image_alt: Flyer de WIA
