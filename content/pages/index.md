@@ -63,12 +63,6 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla.
-      - author: Deegan Wallace
-        avatar: images/deegan_wallace.jpg
-        avatar_alt: Deegan Wallace's photo
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
     subtitle: >-
       Tous les retours, positifs comme négatifs, qui m'ont permis d'évoluer en
       compétence et en caractère.
