@@ -39,7 +39,7 @@ sections:
           HTML - CSS - Bootstrap - WordPress - Wix - Webflow - Webself - Jekyll
           - Ruby On Rails - Landen - Stackabl - Weebly - Google Sites -
           Dreamweaver - Pinegrow - Elementor - Divi - WooCommerce
-      - title: Service Title
+      - title: Rédacteur Web
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
