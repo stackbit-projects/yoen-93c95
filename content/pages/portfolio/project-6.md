@@ -1,6 +1,6 @@
 ---
 title: Brochure d'ESCT Gabon
-subtitle: Optional Project Subtitle
+subtitle: 'Brochure de présentation des '
 date: '2018-12-18'
 thumb_image: images/6_thumb.jpg
 thumb_image_alt: A handheld game console on a yellow background
