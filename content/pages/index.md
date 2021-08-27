@@ -35,10 +35,10 @@ sections:
           - Adobe After Effects - Filmora - Adobe Spark Post - InVision App -
           VideoScribe - Plotagon
       - title: Développement Web
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >
+          HTML - CSS - Bootstrap - WordPress - Wix - Webflow - Webself - Jekyll
+          - Ruby On Rails - Landen - Stackabl - Weebly - Google Sites -
+          Dreamweaver - Pinegrow - Elementor - Divi - WooCommerce
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
