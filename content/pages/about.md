@@ -1,6 +1,8 @@
 ---
 title: À Propos De Moi
-subtitle: This is a short page about us and our work.
+subtitle: >-
+  Une briève description de qui je suis et de mon parcours scolaire et
+  professionnel.
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
