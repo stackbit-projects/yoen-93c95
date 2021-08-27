@@ -1,6 +1,6 @@
 ---
 title: Flyer de Startup School
-subtitle: 'Flyer d''un programme de '
+subtitle: Flyer d'un programme de l'entreprise Start X 241
 date: '2019-01-05'
 thumb_image: /images/Start X 241 - LinkedIn.png
 thumb_image_alt: A white gamepad on a green background
