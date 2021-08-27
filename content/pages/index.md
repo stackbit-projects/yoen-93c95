@@ -18,7 +18,7 @@ sections:
     title: Mes Récents Travaux
     subtitle: >-
       Flyers - Logos - Sites Web - Brochures - Bannières Publicitaires -
-      Prototypes
+      Prototypes 
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
