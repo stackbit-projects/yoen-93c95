@@ -27,7 +27,7 @@ sections:
         default_value: S'il vous plaît choisissez le motif
         options:
           - Création de site(s) web
-          - Création de logo*(s
+          - Création de logo*(s)
           - Other
       - input_type: textarea
         name: message
