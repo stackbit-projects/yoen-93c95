@@ -19,7 +19,7 @@ sections:
       - input_type: email
         name: email
         label: Email
-        default_value: Your email addresse mail
+        default_value: Votre addresse mail
         is_required: true
       - input_type: select
         name: subject
