@@ -1,5 +1,5 @@
 ---
-title: Flyer pour WIA
+title: Logos
 subtitle: Campagne du programme WIA
 date: '2019-05-10'
 thumb_image: /images/WIA - Flyer Campaign.png
