@@ -1,5 +1,5 @@
 ---
-title: Brochure d'ESCT Gabon
+title: Brochures
 subtitle: Brochure de présentation des filières d'ESCT Gabon
 date: '2018-12-18'
 thumb_image: /images/1.png
