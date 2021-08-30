@@ -4,10 +4,10 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+    content: >
+      Mbôlôani ! Merci beaucoup pour votre intérêt à travailler ensemble.
+      Veuillez remplir le formulaire de contact ci-dessous ou envoyez-nous un
+      e-mail à yoal9998@gmail.com 
     form_id: contactForm
     form_action: /thank-you
     form_fields:
