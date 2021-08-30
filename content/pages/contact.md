@@ -32,7 +32,7 @@ sections:
           - Création de prototype(s) et de maquette(s)
           - Formation sur WordPress
           - Formation en Infographie
-          - lorem-ipsum
+          - null
       - input_type: textarea
         name: message
         label: Message
