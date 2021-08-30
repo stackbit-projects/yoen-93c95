@@ -6,8 +6,8 @@ sections:
     type: section_form
     content: >
       Mbôlôani ! Merci beaucoup pour votre intérêt à travailler ensemble.
-      Veuillez remplir le formulaire de contact ci-dessous ou envoyez-nous un
-      e-mail à yoal9998@gmail.com 
+      Veuillez remplir le formulaire de contact ci-dessous ou envoyez-moi un
+      e-mail à yoal9998@gmail.com
     form_id: contactForm
     form_action: /thank-you
     form_fields:
