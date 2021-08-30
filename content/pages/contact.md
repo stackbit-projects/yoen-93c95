@@ -31,7 +31,7 @@ sections:
           - Création de bannière(s) publicitaire(s)
           - Création de prototype(s) et de maquette(s)
           - Cours sur WordPress
-          - Cours d'Infographie
+          - Formation en d'Infographie
       - input_type: textarea
         name: message
         label: Message
