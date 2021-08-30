@@ -29,7 +29,7 @@ sections:
           - Création de site(s) web
           - Création de logo(s)
           - Création de bannière(s) publicitaire(s)
-          - Création de prototypes
+          - Création de prototype(s
       - input_type: textarea
         name: message
         label: Message
