@@ -30,7 +30,7 @@ sections:
           - Création de logo(s)
           - Création de bannière(s) publicitaire(s)
           - Création de prototype(s) et de maquette(s)
-          - lorem-ipsum
+          - Cours sur WordPress
       - input_type: textarea
         name: message
         label: Message
