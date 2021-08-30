@@ -26,7 +26,7 @@ sections:
         label: Motif
         default_value: S'il vous plaît choisissez le motif
         options:
-          - Création de site*&()
+          - Création de site(s)
           - Sponsorship
           - Other
       - input_type: textarea
