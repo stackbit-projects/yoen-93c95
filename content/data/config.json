@@ -37,15 +37,7 @@
     "footer": {
         "content": "&copy; Yoen Agondjo. Tous droits réservés.",
         "has_social": true,
-        "social_links": [
-            {
-                "label": "Instagram",
-                "url": "https://www.instagram.com/",
-                "style": "icon",
-                "icon": "instagram",
-                "new_window": true
-            }
-        ]
+        "social_links": []
     },
     "domain": "https://yoen-agondjo.netlify.app"
 }
