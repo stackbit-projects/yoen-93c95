@@ -33,6 +33,7 @@ sections:
           - Formation sur WordPress
           - Formation en Infographie
           - Rédaction de CV ou de Présentation
+        is_required: true
       - input_type: textarea
         name: message
         label: Message
