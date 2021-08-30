@@ -28,7 +28,7 @@ sections:
         options:
           - Création de site(s) web
           - Création de logo(s)
-          - Création de bannière(s) publicit
+          - Création de bannière(s) publicitaire
       - input_type: textarea
         name: message
         label: Message
