@@ -24,7 +24,7 @@ sections:
       - input_type: select
         name: subject
         label: Motif
-        default_value: Please select
+        default_value: Choisissez le motif
         options:
           - Error on the site
           - Sponsorship
