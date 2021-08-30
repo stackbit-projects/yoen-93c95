@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: 'Consultez tous mes différents travaux '
+subtitle: 'Consultez tous mes différents travaux, des récents aux plus anciens.'
 layout_style: tiles
 seo:
   title: Portfolio
