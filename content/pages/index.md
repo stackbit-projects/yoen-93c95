@@ -80,7 +80,9 @@ sections:
         style: button
 seo:
   title: Yoen Agondjo - Portfolio
-  description: The preview of the Exto theme
+  description: >-
+    Site web de présentation de mes services et produits. Je suis un Designer
+    Web Marketing Digital de formation.
   extra:
     - name: 'og:type'
       value: website
