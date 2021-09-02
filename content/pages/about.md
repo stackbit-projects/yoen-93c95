@@ -3,7 +3,7 @@ title: À Propos De Moi
 subtitle: >-
   Une briève description de qui je suis et de mon parcours scolaire et
   professionnel.
-image: images/about.jpg
+image: /images/Sans titre.png
 image_alt: A man taking a picture
 seo:
   title: About Us
