@@ -91,7 +91,9 @@ seo:
       value: Yoen Agondjo - Portfolio
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: >-
+        Site web de présentation de mes services et produits. Je suis un
+        Designer Web Marketing Digital de formation.
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
