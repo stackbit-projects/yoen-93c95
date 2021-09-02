@@ -104,7 +104,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Exto Theme
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: >-
+        Site web de présentation de mes services et produits. Je suis un
+        Designer Web Marketing Digital de formation.
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
