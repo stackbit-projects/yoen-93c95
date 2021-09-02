@@ -33,11 +33,20 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Je m'appelle **Yoen Agondjo**, je suis né à Libreville -Gabon- en 1998. Depuis petit, j'ai toujours été fasciné par tout ce qui tourne autour de l'**informatique**, de la **mécanique**, de l'**électronique**, bref, des **nouvelles technologies** !
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+Ceux qui me côtoient ont tendance à dire que je suis calme, gentil, fou et un grand rêveur ! Oui, je suis un geek et comme tous les geeks, j'ai mille et une idées qui trottent dans les rues de mon cerveau chaque jour.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+Un jour, dans mon enfance, j'ai regardé un film à la télévision qui montrait des *''hackers''*, qualifiés par la majorité tels des *''pirates informatiques''*. Ce jour, j'ai été grandement impressionné; je ne savais pas que l'on pouvait faire autant de choses avec un *''simple ordinateur''*...
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+J'avais décidé que je serai, un jour, comme eux : un expert dans le domaine du numérique qui sait résoudre n'importe quel problème.
 
-*Thank You for reading!*
+Mais les choses ne se sont pas déroulées telles que je le pensais… Après l'obtention de mon baccalauréat en série scientifique C, je me suis totalement désorienté : j'ai commencé par des études de *Droit (1 an)*, de *Management Des Organisations (3 ans)*, j'ai suivi une formation en *Pâtisserie (durant les vacances)* et, un jour, j'ai intégré la première fabrique [Simplon](https://www.simplon.co) au Gabon : [École 241](https://www.ecole241.org).
+
+C'est dans ce laboratoire de l'innovation que j'ai pu rencontrer des coachs, mentors tels que Mr. Sylvère Boussamba, Mme. Sylvie Touré, Mr. Henry Lepa Malomalo (mon formateur), Mr. Dimitri Ongoua et plein d'autres, qui m'ont permis de comprendre l'environnement du Numérique au Gabon et m'ont permis de grandir, tant en compétences qu'en caractère et de devenir un **Designer Web Marketing Digital**.
+
+Et grâce aux cours de leadership reçu par le coach (certifié John C. Maxwell) **Sylvère Boussamba**, j'ai énormément pu apprendre à dépasser mes limites et pu comprendre que :
+
+> Sans l'amour, l'intelligence ne sert à rien.
+
+Avec la team École 241, j'ai pu travailler sur de gros projets tels que la création du site et le déroulement de la campagne de [École 241 Business](https://business.ecole241.org), [Marché de Noel 241](https://marchedenoel241.org), [Start X 241](https://www.startx241.com), tous, des projets d'[Ogooué Labs](https://www.ogoouelabs.com) !
