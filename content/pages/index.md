@@ -102,7 +102,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: Yoen Agondjo - Portfolio
     - name: 'twitter:description'
       value: >-
         Site web de présentation de mes services et produits. Je suis un
