@@ -1,5 +1,5 @@
 ---
-title: Sites Web
+title: Sites Web & Mobiles
 subtitle: Un aperçu des sites web et mobiles que j'ai pu concevoir.
 date: '2019-02-26'
 thumb_image: /images/Yoen Agondjo - Site Web Ecole 241-c30a0c29.png
