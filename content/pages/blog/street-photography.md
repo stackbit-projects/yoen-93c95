@@ -42,8 +42,11 @@ seo:
       value: Understanding Street Photography
     - name: 'twitter:description'
       value: >-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt
+        Avez-vous déjà rêvé de surfer sur le net sans jamais vous arrêter ?
+        Avez-vous déjà rêvé d’envoyer des messages à votre bien-aimée sur les
+        réseaux
+
+        sociaux…
     - name: 'twitter:image'
       value: images/8.jpg
       relativeUrl: true
