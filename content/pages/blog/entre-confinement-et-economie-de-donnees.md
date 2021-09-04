@@ -8,7 +8,7 @@ date: '2020-03-20'
 thumb_image: /images/Yoen Agondjo - Entre Confinement Et Économie De Données.png
 thumb_image_alt: Image d'un smartphone
 image: /images/Yoen Agondjo - Entre Confinement Et Économie De Données.png
-image_alt: 'Image de deux hommes en veste tenant en main une  '
+image_alt: Image de deux hommes en veste tenant en main une tablette
 seo:
   title: Entre Confinement Et Économie De Données
   description: >-
