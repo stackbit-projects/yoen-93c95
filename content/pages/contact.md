@@ -69,5 +69,9 @@ seo:
       value: >-
         Yoen Agondjo vous offre la possibilité de le contacter pour bénéficier
         de ses services.
+    - name: 'og:image'
+      value: /images/Yoen Agondjo - Contact.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
