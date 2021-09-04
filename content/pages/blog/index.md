@@ -5,7 +5,9 @@ hide_title: false
 col_number: two
 seo:
   title: Blog
-  description: This is the blog page
+  description: >-
+    Yoen Agondjo partage toutes ses actualités, découvertes et donne des
+    conseils au sujet de nouveaux outils ou de technologies les plus utilisées.
   extra:
     - name: 'og:type'
       value: website
