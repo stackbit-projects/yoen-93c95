@@ -57,7 +57,9 @@ seo:
       value: Contact
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: >-
+        Yoen Agondjo vous offre la possibilité de le contacter pour bénéficier
+        de ses services.
       keyName: property
     - name: 'twitter:card'
       value: summary
