@@ -16,7 +16,10 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: >-
+        Yoen Agondjo partage toutes ses actualités, découvertes et donne des
+        conseils au sujet de nouveaux outils ou de technologies les plus
+        utilisées.
       keyName: property
     - name: 'og:image'
       value: images/12.jpg
