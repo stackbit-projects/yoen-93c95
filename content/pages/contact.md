@@ -66,6 +66,8 @@ seo:
     - name: 'twitter:title'
       value: Contact
     - name: 'twitter:description'
-      value: This is the contact page
+      value: >-
+        Yoen Agondjo vous offre la possibilité de le contacter pour bénéficier
+        de ses services.
 layout: advanced
 ---
