@@ -1,6 +1,6 @@
 ---
 title: Brochures
-subtitle: Flyer d'un programme de l'entreprise Start X 241
+subtitle: Un aperçu des cartes de visite que j'ai pu concevoir.
 date: '2019-01-05'
 thumb_image: /images/Start X 241 - LinkedIn.png
 thumb_image_alt: Flyer de Startup School
