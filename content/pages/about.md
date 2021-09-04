@@ -29,7 +29,9 @@ seo:
     - name: 'twitter:title'
       value: A Propos
     - name: 'twitter:description'
-      value: This is the about us page
+      value: >-
+        Yoen Agondjo explique son parcours, sa passion, les découvertes qui ont
+        permis qu'il suive la voie de Designer Web Marketing Digital.
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
