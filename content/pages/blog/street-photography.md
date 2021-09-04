@@ -4,9 +4,7 @@ excerpt: >-
   Avez-vous déjà rêvé de surfer sur le net sans jamais vous arrêter ? Avez-vous
   déjà rêvé d’envoyer des messages à votre bien-aimée sur les réseaux sociaux
   sans être interrompu ?  Vous me direz certainement “oui” car aujourd’hui cela
-  est possible grâce à une connexion Wifi ! Mais, est-ce le cas pour tout le
-  monde ? Surtout en cette période de confinement dans laquelle plusieurs
-  business n’arrivent plus à décoller, que faut-il faire ?
+  est possible grâce à une connexion Wifi !
 date: '2020-03-20'
 thumb_image: /images/1 V6AVjnLuq76gp82nS1c3zA.png
 thumb_image_alt: Image d'un smartphone
