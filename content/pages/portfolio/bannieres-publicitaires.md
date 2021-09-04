@@ -5,7 +5,7 @@ date: '2019-05-10'
 thumb_image: /images/Yoen Agondjo - Bannières Publicitaires.png
 thumb_image_alt: Flyers
 image: /images/Yoen Agondjo - Bannières Publicitaires.png
-image_alt: 'Bannières '
+image_alt: Bannières Publicitaires
 seo:
   title: Project Title 1
   description: This is the project 1 description
