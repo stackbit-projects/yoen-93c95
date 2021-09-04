@@ -7,7 +7,9 @@ image: /images/Sans titre.png
 image_alt: A man taking a picture
 seo:
   title: About Us
-  description: This is the about us page
+  description: >-
+    Yoen Agondjo explique son parcours, sa passion, les découvertes qui ont
+    permis qu'il suive la voie de Designer Web Marketing Digital.
   extra:
     - name: 'og:type'
       value: website
