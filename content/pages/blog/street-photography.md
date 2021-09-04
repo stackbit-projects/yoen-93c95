@@ -11,11 +11,12 @@ image: /images/1 V6AVjnLuq76gp82nS1c3zA.png
 image_alt: Hello this way printed on a red metal gate
 seo:
   title: Entre Confinement Et Économie De Données
-  description: |-
-    Avez-vous
-    déjà rêvé de surfer sur le net sans jamais vous arrêter ? Avez-vous
-    déjà rêvé d’envoyer des messages à votre bien-aimée sur les réseaux
-    sociaux sans être interrompu ?
+  description: >-
+    Avez-vous déjà rêvé de surfer sur le net sans jamais vous arrêter ?
+    Avez-vous déjà rêvé d’envoyer des messages à votre bien-aimée sur les
+    réseaux
+
+    sociaux…
   extra:
     - name: 'og:type'
       value: article
