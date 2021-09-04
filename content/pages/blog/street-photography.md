@@ -48,7 +48,7 @@ seo:
 
         sociaux…
     - name: 'twitter:image'
-      value: images/8.jpg
+      value: /images/1 V6AVjnLuq76gp82nS1c3zA.png
       relativeUrl: true
 layout: post
 ---
