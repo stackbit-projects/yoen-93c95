@@ -5,7 +5,7 @@ date: '2019-04-30'
 thumb_image: /images/Logo - NTCHAGA (7).png
 thumb_image_alt: Logos
 image: /images/Logo - NTCHAGA (7).png
-image_alt: Logo de Ntchaga
+image_alt: Logos
 seo:
   title: Project Title 2
   description: This is the project 2 description
