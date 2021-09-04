@@ -1,6 +1,6 @@
 ---
 title: Logos
-subtitle: Un aperçu des cartes de visite que j'ai pu concevoir.
+subtitle: Un aperçu des logos que j'ai pu concevoir.
 date: '2019-04-30'
 thumb_image: /images/Logo - NTCHAGA (7).png
 thumb_image_alt: Logos
