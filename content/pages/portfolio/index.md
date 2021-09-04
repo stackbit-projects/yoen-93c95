@@ -28,7 +28,9 @@ seo:
     - name: 'twitter:title'
       value: Portfolio
     - name: 'twitter:description'
-      value: This is the portfolio page
+      value: >-
+        Yoen Agondjo vous présente quelques travaux qu'il a eu à réaliser avec
+        des entreprises ou particuliers.
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
