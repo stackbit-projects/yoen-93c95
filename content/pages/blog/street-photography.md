@@ -33,7 +33,7 @@ seo:
         sociaux…
       keyName: property
     - name: 'og:image'
-      value: images/8.jpg
+      value: /images/1 V6AVjnLuq76gp82nS1c3zA.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
