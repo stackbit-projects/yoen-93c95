@@ -1,6 +1,6 @@
 ---
 title: Blog
-subtitle: 'Nouvelles, Conseils & Faits saillants'
+subtitle: 'Nouvelles, Conseils & Faits Saillants'
 hide_title: false
 col_number: two
 seo:
