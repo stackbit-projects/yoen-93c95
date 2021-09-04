@@ -2,7 +2,7 @@
 title: Brochures
 subtitle: Brochure de présentation des filières d'ESCT Gabon
 date: '2018-12-18'
-thumb_image: /images/1.png
+thumb_image: /images/Yoen Agondjo - Cartes de visite.png
 thumb_image_alt: Brochure d'ESCT Gabon
 image: /images/1.png
 image_alt: Brochure de présentation des filières d'ESCT Gabon
