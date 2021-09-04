@@ -1,5 +1,5 @@
 ---
-title: Entre c
+title: 'Entre '
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
