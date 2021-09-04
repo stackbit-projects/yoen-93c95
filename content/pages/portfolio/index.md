@@ -15,7 +15,9 @@ seo:
       value: Portfolio
       keyName: property
     - name: 'og:description'
-      value: This is the portfolio page
+      value: >-
+        Yoen Agondjo vous présente quelques travaux qu'il a eu à réaliser avec
+        des entreprises ou particuliers.
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
