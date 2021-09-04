@@ -4,7 +4,7 @@ subtitle: Un aperçu des cartes de visite que j'ai pu concevoir.
 date: '2018-12-18'
 thumb_image: /images/Yoen Agondjo - Cartes de visite.png
 thumb_image_alt: Cartes de visite
-image: /images/Yoen Agondjo - Cartes de visite.png
+image: /images/1-cdbc6fe7.jpg
 image_alt: Cartes de visite
 seo:
   title: Project Title 6
