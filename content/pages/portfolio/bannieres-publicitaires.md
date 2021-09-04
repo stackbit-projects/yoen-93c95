@@ -1,6 +1,6 @@
 ---
 title: Bannières publicitaires
-subtitle: Un aperçu des logos que j'ai pu concevoir.
+subtitle: Un aperçu des bannières publicitaires que j'ai pu concevoir.
 date: '2019-05-10'
 thumb_image: /images/Yoen Agondjo - Bannières Publicitaires.png
 thumb_image_alt: Flyers
