@@ -43,13 +43,107 @@ seo:
       relativeUrl: true
 layout: post
 ---
+L’outil que je vous présente aujourd’hui s’appelle Trello. Pourquoi je l’apprécie et pourquoi j’en parle?![](https://miro.medium.com/max/17/1\*3yncnNF7vS0iQYSLRuHOMQ.jpeg?q=20)![](https://miro.medium.com/max/700/1\*3yncnNF7vS0iQYSLRuHOMQ.jpeg)![](https://miro.medium.com/max/17/1\*RgVWcmBYmCjMl7cgKomP3A.jpeg?q=20)![](https://miro.medium.com/max/700/1\*RgVWcmBYmCjMl7cgKomP3A.jpeg)![](https://miro.medium.com/max/30/1\*mUHjIgavDzLDzFrcGSLNAQ.jpeg?q=20)![](https://miro.medium.com/max/700/1\*mUHjIgavDzLDzFrcGSLNAQ.jpeg)![](https://miro.medium.com/max/17/1\*Jdxnhy-7QyjKJqYjeji5IQ.jpeg?q=20)![](https://miro.medium.com/max/700/1\*Jdxnhy-7QyjKJqYjeji5IQ.jpeg)![](https://miro.medium.com/max/30/1\*ZqLfY1ODmx9gcZIBRQHUAQ.jpeg?q=20)![](https://miro.medium.com/max/700/1\*ZqLfY1ODmx9gcZIBRQHUAQ.jpeg)
 
-**Donec neque lorem**, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat.
 
-Phasellus commodo dolor sit amet, consectetur adipiscing elit. Nam a finibus magna. Sed et pulvinar dolor. Suspendisse vitae iaculis lacus. Proin vulputate, leo eget pulvinar faucibus, felis est condimentum lorem, in rhoncus neque felis ac leo. Duis felis lectus, ultrices id dolor vel, tincidunt tristique nunc. Nullam quis orci magna. Proin eget nunc et dolor hendrerit eleifend. Praesent a vehicula justo, quis convallis lacus. Phasellus porttitor, turpis vel placerat condimentum, urna felis volutpat ligula, et ultricies arcu mi ac nisl. Cras id consectetur ligula, et mollis odio. Aenean erat dui, congue vitae nisi a, aliquet lobortis eros.
 
-> The beauty of type lies in its utility, prettiness without readability serves neither author nor reader. - James Felici
+Que
+ ce soient pour des travaux personnels, des devoirs de classe ou des 
+groupes de travail, j’ai pu constater qu’en m’y lançant sans avoir 
+programmé à l’avance, j’échouais finalement ou alors, j’obtenais des 
+résultats peu satisfaisants.
 
-Sed augue lorem, porta nec lorem et, luctus egestas nunc. Sed in tellus at enim commodo pharetra. Mauris nisi ipsum, auctor nec justo non, lobortis ullamcorper magna. Pellentesque posuere posuere dolor, quis egestas est ultrices id. Cras at urna lectus. Curabitur in placerat ligula. Phasellus pharetra scelerisque lectus, id sagittis lorem pretium eget. Phasellus commodo nunc ante, nec commodo urna iaculis eu. Pellentesque euismod et ante quis vestibulum. Ut quis sapien nisi. Sed interdum sit amet sem et vestibulum. Maecenas tempor dictum leo, quis rutrum purus tincidunt vitae. Fusce vel turpis risus. Donec congue accumsan tempus. Nunc nec elit magna. Aenean luctus auctor ligula at lacinia.
+S’organiser est la chose la plus importante dans la vie. L’organisation vous permettra de mettre fin:
 
-Donec neque lorem, sodales non fermentum et, aliquam quis erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla tincidunt justo eu ante ultrices posuere. Duis cursus at massa ac tempus. Morbi sit amet mi sit amet lorem ullamcorper feugiat ac et dolor. Nullam rhoncus urna tincidunt odio ultricies, at dapibus felis facilisis. Ut condimentum nulla eget feugiat finibus. Suspendisse sit amet purus a eros dignissim commodo ut a erat. Maecenas pretium velit faucibus, porttitor lacus eu, eleifend sapien. In hac habitasse platea dictumst. Pellentesque nisi nisl, consectetur a accumsan sit amet, finibus vel nibh. Vivamus aliquet urna non turpis vehicula maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+*   Au stress
+
+*   La déception
+
+*   L’échec
+
+Et vous permettra d’obtenir:
+
+*   De l’assurance
+
+*   La satisfaction
+
+*   De bons résultats
+
+Trello, en effet, est l’outil idéal
+ pour y parvenir. Il est disponible via le site web www.trello.com et en
+ tant qu’application sur les plusieurs systèmes d’exploitation tels que 
+Androïd, iOS…
+
+## ▪︎SUR LA PAGE D’ACCUEIL
+
+Après
+ s’être connecté, on est directement redirigé vers la page d’accueil qui
+ donne quelques instructions aux nouveaux venus et, pour ceux qui y sont
+ déjà, une liste des tableaux en cours avec certains détails comme la 
+date attribuée à une tâche, l’étiquette selon l’ordre de priorité 
+(rouge, jaune, vert, bleu, orange, violet…).
+
+Rien
+ de compliqué pour une personne qui ne s’y connait pas; leur plateforme 
+est assez simple d’utilisation avec des instructions à chaque étape.
+
+## ▪︎CRÉATION DU TABLEAU POUR S’ORGANISER
+
+Pour
+ la création des tableaux sur Trello, il suffit de donner un nom. Par 
+exemple “Programme du jour 06/08/20”, indiquer s’il s’agit d’un tableau 
+personnel ou avec une équipe, rendre cela visible au public ou le garder
+ en mode privé et l’aventure peut commencer…
+
+## ▪︎LES CARTES TRELLO
+
+Les
+ cartes Trello permettent d’indiquer les tâches à réaliser. Ces cartes 
+sont créées à l’intérieur de différentes colonnes et chaque colonne 
+porte un titre indiquant l’action à effectuer.
+
+Un modèle simple et intéressant est de commencer avec trois colonnes:
+
+*   “A faire”: la colonne avec ce titre pourra contenir toutes les cartes qui vont nous permettre d’organiser notre travail.
+
+*   “En
+     cours”: c’est la deuxième étape. Ume fois notre liste de programme 
+    dressée dans “A faire”, les différentes cartes pourront être déplacées 
+    dans “En cours”; cela nous permettra de visualiser toutes nos tâches en 
+    cours.
+
+*   “Terminé”:
+     lorsqu’une carte en cours a fini d’être traitée, on peut la déplacer 
+    dans la section “Terminé” pour nous rappeler que nous en avons fini 
+    avec.
+
+> C’est ce que j’ai illustré dans la photo ci-après où je vous montre un exemple de mon programme du jour.
+
+Comme
+ vous pouvez le constater, chaque carte est munie d’une étiquette, d’une
+ date, d’autres d’une description (pour donner plus de détails à la 
+carte) et l’on peut également intégrer d’autres fichiers (PDF, Power 
+Point, Google Slides, Google Drive, Excell, Word ou des images, 
+vidéos…), mettre des liens ou attacher d’autres tableaux Trello pour 
+rendre la carte plus précise et amusante.
+
+Sur
+ un autre tableau, vous remarquerez que chaque carte peut disposer d’une
+ image simple ou d’une image animée. C’est ce côté amusant que j’aime 
+bien.
+
+Pour
+ moi, Trello, peut aussi être utilisé par des enfants; cela serait très 
+instructif et les mettrait déjà dans le bain de l’organisation. En 
+grandissant, ils auront ce réflexe de savoir s’organiser avant chaque 
+évènement et avec cet état d’esprit, il y aura un grand changement dans 
+leur vie et dans leur entourage.
+
+## UN DERNIER MOT ?
+
+Trello
+ est l’application que j’utilise le plus ces derniers temps et elle me 
+permet de respecter mes objectifs et de ne plus stresser car je ne peux 
+plus oublier d’exécuter une tâche, de rendre un travail, de souhaiter un
+ “joyeux anniversaire” à une connaissance ou de plannifier un 
+rendez-vous avec des amis.
