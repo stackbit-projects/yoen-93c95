@@ -3,7 +3,7 @@ title: Cartes de visite
 subtitle: Un aperçu des cartes de visite que j'ai pu concevoir.
 date: '2018-12-18'
 thumb_image: /images/Yoen Agondjo - Cartes de visite.png
-thumb_image_alt: Brochure d'ESCT Gabon
+thumb_image_alt: Cartes de visite
 image: /images/1.png
 image_alt: Brochure de présentation des filières d'ESCT Gabon
 seo:
