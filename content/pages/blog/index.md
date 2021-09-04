@@ -30,7 +30,10 @@ seo:
     - name: 'twitter:title'
       value: Blog
     - name: 'twitter:description'
-      value: This is the blog page
+      value: >-
+        Yoen Agondjo partage toutes ses actualités, découvertes et donne des
+        conseils au sujet de nouveaux outils ou de technologies les plus
+        utilisées.
     - name: 'twitter:image'
       value: images/12.jpg
       relativeUrl: true
