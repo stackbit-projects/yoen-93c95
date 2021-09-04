@@ -4,7 +4,7 @@ subtitle: Un aperçu des sites web et mobiles que j'ai pu concevoir.
 date: '2019-02-26'
 thumb_image: /images/Yoen Agondjo - Site Web Ecole 241-c30a0c29.png
 thumb_image_alt: Sites Web & Mobiles
-image: /images/HPB Agro-Consulting - Flyer – 1.png
+image: /images/Yoen Agondjo - Site Web Ecole 241-c30a0c29.png
 image_alt: Flyer de HPB Agro-Consulting
 seo:
   title: Project Title 4
