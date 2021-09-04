@@ -46,7 +46,9 @@ sections:
     submit_label: Envoyer le message
 seo:
   title: Contact
-  description: This is the contact page
+  description: >-
+    Yoen Agondjo vous offre la possibilité de le contacter pour bénéficier de
+    ses services.
   extra:
     - name: 'og:type'
       value: website
