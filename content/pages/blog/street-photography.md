@@ -10,7 +10,7 @@ thumb_image_alt: Image d'un smartphone
 image: /images/1 V6AVjnLuq76gp82nS1c3zA.png
 image_alt: Hello this way printed on a red metal gate
 seo:
-  title: Understanding Street Photography
+  title: Entre Confinement Et Économie De Données
   description: >-
     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
     tempor incididunt
