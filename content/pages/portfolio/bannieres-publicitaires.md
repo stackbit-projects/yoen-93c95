@@ -4,7 +4,7 @@ subtitle: Un aperçu des bannières publicitaires que j'ai pu concevoir.
 date: '2019-05-10'
 thumb_image: /images/Yoen Agondjo - Bannières Publicitaires.png
 thumb_image_alt: Flyers
-image: /images/WIA - Flyer Campagne.png
+image: /images/Yoen Agondjo - Bannières Publicitaires.png
 image_alt: Flyer d'une campagne de WIA
 seo:
   title: Project Title 1
