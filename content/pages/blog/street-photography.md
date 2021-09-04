@@ -22,7 +22,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Understanding Street Photography
+      value: Entre Confinement Et Économie De Données
       keyName: property
     - name: 'og:description'
       value: >-
