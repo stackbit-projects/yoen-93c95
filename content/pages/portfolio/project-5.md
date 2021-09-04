@@ -3,7 +3,7 @@ title: Brochures
 subtitle: Un aperçu des brochures que j'ai pu concevoir.
 date: '2019-01-05'
 thumb_image: /images/Yoen Agondjo - Site Web Ecole 241(1).png
-thumb_image_alt: Flyer de Startup School
+thumb_image_alt: Brochures
 image: /images/Start X 241 - LinkedIn.png
 image_alt: Flyer d'un programme de l'entreprise Start X 241
 seo:
