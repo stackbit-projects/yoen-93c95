@@ -20,7 +20,7 @@ seo:
         des entreprises ou particuliers.
       keyName: property
     - name: 'og:image'
-      value: images/1.jpg
+      value: '/images/[GetPaidStock.com]-6132fd8bb845b.jpg'
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
