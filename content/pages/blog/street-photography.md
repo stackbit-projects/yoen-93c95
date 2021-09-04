@@ -39,7 +39,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Understanding Street Photography
+      value: Entre Confinement Et Économie De Données
     - name: 'twitter:description'
       value: >-
         Avez-vous déjà rêvé de surfer sur le net sans jamais vous arrêter ?
