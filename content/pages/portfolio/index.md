@@ -4,7 +4,9 @@ subtitle: 'Consultez tous mes différents travaux, des récents aux plus anciens
 layout_style: mosaic
 seo:
   title: Portfolio
-  description: This is the portfolio page
+  description: >-
+    Yoen Agondjo vous présente quelques travaux qu'il a eu réaliser avec des
+    entreprises ou particuliers.
   extra:
     - name: 'og:type'
       value: website
