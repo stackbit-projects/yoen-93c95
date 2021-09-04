@@ -1,5 +1,5 @@
 ---
-title: Les outils importants pour un Référent Digital
+title: Les outils mportants pour un Référent Digital
 excerpt: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
