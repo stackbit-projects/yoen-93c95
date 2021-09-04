@@ -1,5 +1,5 @@
 ---
-title: Bannières publicitaires
+title: Bannières Publicitaires
 subtitle: Un aperçu des bannières publicitaires que j'ai pu concevoir.
 date: '2019-05-10'
 thumb_image: /images/Yoen Agondjo - Bannières Publicitaires.png
