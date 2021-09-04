@@ -5,7 +5,7 @@ date: '2019-02-26'
 thumb_image: /images/Yoen Agondjo - Site Web Ecole 241-c30a0c29.png
 thumb_image_alt: Sites Web & Mobiles
 image: /images/Yoen Agondjo - Site Web Ecole 241-c30a0c29.png
-image_alt: Sites web & Mobiles
+image_alt: Sites Web & Mobiles
 seo:
   title: Project Title 4
   description: This is the project 4 description
