@@ -1,6 +1,6 @@
 ---
 title: Sites Web
-subtitle: Flyer de présentation de services de HPB
+subtitle: Un aperçu des cartes de visite que j'ai pu concevoir.
 date: '2019-02-26'
 thumb_image: /images/Yoen Agondjo - Site Web Ecole 241-c30a0c29.png
 thumb_image_alt: Flyer de HPB Agro-Consulting
