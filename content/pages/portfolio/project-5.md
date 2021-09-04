@@ -1,5 +1,5 @@
 ---
-title: Cartes De Visite
+title: Brochures
 subtitle: Flyer d'un programme de l'entreprise Start X 241
 date: '2019-01-05'
 thumb_image: /images/Start X 241 - LinkedIn.png
