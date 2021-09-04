@@ -4,7 +4,7 @@ subtitle: Un aperçu des brochures que j'ai pu concevoir.
 date: '2019-01-05'
 thumb_image: /images/Yoen Agondjo - Site Web Ecole 241(1).png
 thumb_image_alt: Brochures
-image: /images/Yoen Agondjo - Site Web Ecole 241(1).png
+image: /images/1.png
 image_alt: Brochures
 seo:
   title: Project Title 5
