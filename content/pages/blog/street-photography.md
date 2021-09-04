@@ -3,7 +3,7 @@ title: Obtenir un an gratuit pour Canva Pro
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra.
-date: '2020-03-10'
+date: '2020-03-20'
 thumb_image: images/8_thumb.jpg
 thumb_image_alt: Hello this way printed on a red metal gate
 image: images/8.jpg
