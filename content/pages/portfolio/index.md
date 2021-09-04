@@ -5,7 +5,7 @@ layout_style: mosaic
 seo:
   title: Portfolio
   description: >-
-    Yoen Agondjo vous présente quelques travaux qu'il a eu réaliser avec des
+    Yoen Agondjo vous présente quelques travaux qu'il a eu à réaliser avec des
     entreprises ou particuliers.
   extra:
     - name: 'og:type'
