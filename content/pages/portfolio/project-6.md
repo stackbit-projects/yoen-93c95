@@ -5,7 +5,7 @@ date: '2018-12-18'
 thumb_image: /images/Yoen Agondjo - Cartes de visite.png
 thumb_image_alt: Cartes de visite
 image: /images/Yoen Agondjo - Cartes de visite.png
-image_alt: Brochure de présentation des filières d'ESCT Gabon
+image_alt: Cartes de visite
 seo:
   title: Project Title 6
   description: This is the project 6 description
