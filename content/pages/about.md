@@ -16,7 +16,9 @@ seo:
       value: A Propos
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: >-
+        Yoen Agondjo explique son parcours, sa passion, les découvertes qui ont
+        permis qu'il suive la voie de Designer Web Marketing Digital.
       keyName: property
     - name: 'og:image'
       value: /images/Sans titre.png
