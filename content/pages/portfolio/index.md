@@ -32,7 +32,7 @@ seo:
         Yoen Agondjo vous présente quelques travaux qu'il a eu à réaliser avec
         des entreprises ou particuliers.
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: '/images/[GetPaidStock.com]-6132fd8bb845b.jpg'
       relativeUrl: true
 layout: portfolio
 ---
