@@ -3,7 +3,7 @@ title: Je Consomme Gabonais
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
-date: '0002-09-03'
+date: '2021-09-03'
 thumb_image: images/11_thumb.jpg
 thumb_image_alt: A leather notebook and a pen on a wooden working table
 image: images/11.jpg
