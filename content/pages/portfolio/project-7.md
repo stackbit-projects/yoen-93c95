@@ -5,7 +5,7 @@ date: '2018-01-15'
 thumb_image: /images/Yoen Agondjo - Prototypes et Maquettes.png
 thumb_image_alt: Prototypes & Maquettes
 image: /images/Yoen Agondjo - Prototypes et Maquettes.png
-image_alt: A black headphones on a yeallow background
+image_alt: Prototypes & Maquettes
 seo:
   title: Project Title 7
   description: This is the project 7 description
