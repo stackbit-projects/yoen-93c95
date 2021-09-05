@@ -17,7 +17,9 @@ seo:
       value: Sites & Mobiles
       keyName: property
     - name: 'og:description'
-      value: This is the project 4 description
+      value: >-
+        Sites web créés par Yoen Agondjo pour les entreprises et/ou
+        particuliers.
       keyName: property
     - name: 'og:image'
       value: images/4.jpg
