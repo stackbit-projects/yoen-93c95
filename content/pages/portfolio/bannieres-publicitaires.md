@@ -14,7 +14,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Bannières Publicitaires.
+      value: Bannières Publicitaires
       keyName: property
     - name: 'og:description'
       value: >-
