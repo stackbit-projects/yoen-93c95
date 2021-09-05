@@ -30,7 +30,9 @@ seo:
     - name: 'twitter:title'
       value: Cartes De Visite
     - name: 'twitter:description'
-      value: This is the project 6 description
+      value: >-
+        Cartes de visite créées par Yoen Agondjo pour les entreprises et/ou
+        particuliers.
     - name: 'twitter:image'
       value: images/6.jpg
       relativeUrl: true
