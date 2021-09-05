@@ -34,7 +34,7 @@ seo:
         Brochures créées par Yoen Agondjo pour les entreprises et/ou
         particuliers.
     - name: 'twitter:image'
-      value: images/5.jpg
+      value: '/images/[GetPaidStock.com]-6132ff9507f40.jpg'
       relativeUrl: true
 layout: project
 ---
