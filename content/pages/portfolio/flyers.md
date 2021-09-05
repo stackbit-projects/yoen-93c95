@@ -54,6 +54,8 @@ layout: project
 
 ***Flyer :** Start X 241, annonce du lancement du programme de formation Startup School.*
 
+**
+
 \*\*![](/images/Start%20X%20241%20-%20Compagen%20e-Mailing.png)
 
 ***Flyer :** Start X 241, affiche réalisée lors de la campagne d'e-mailing et pour les critères d'éligibilité à la Startup School.*
