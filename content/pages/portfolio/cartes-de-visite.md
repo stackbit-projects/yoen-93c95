@@ -22,7 +22,7 @@ seo:
         particuliers.
       keyName: property
     - name: 'og:image'
-      value: images/6.jpg
+      value: /images/1-5481163c.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
