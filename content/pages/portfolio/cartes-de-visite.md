@@ -40,10 +40,8 @@ layout: project
 
 **
 
-**
 
-**
 
-**![](/images/Carte%20de%20visite%20-%20Venusia.png)
+![](/images/Carte%20de%20visite%20-%20Venusia.png)
 
 ***Carte De Visite :** Pour la campagne du groupe Facebook de Je Consomme Gabonais initié par Mlle. Venusia ASSEKO.*
