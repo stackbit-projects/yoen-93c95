@@ -37,3 +37,13 @@ layout: project
 ![](/images/Carte%20de%20visite%20-%20Nicaise%20TCHIBINDA%20\(1\).png)
 
 ***Carte De Visite :** ESCT Gabon pour le personnel administratif durant l'année 2020-2021.*
+
+**
+
+**
+
+**
+
+**![](/images/Carte%20de%20visite%20-%20Venusia.png)
+
+***Carte De Visite :** Pour la campagne du groupe Facebook de Je Consomme Gabonais initié par Mlle. Venusia ASSEKO.*
