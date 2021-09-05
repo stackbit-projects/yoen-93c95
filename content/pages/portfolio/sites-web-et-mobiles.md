@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 4
+      value: Sites Web & Mobiles
     - name: 'twitter:description'
       value: >-
         Sites web créés par Yoen Agondjo pour les entreprises et/ou
