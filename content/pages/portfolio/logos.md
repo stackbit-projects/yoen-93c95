@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: Logos créés par Yoen Agondjo pour les entreprises et/ou particuliers.
     - name: 'twitter:image'
-      value: images/2.jpg
+      value: /images/Logo - NTCHAGA (7).png
       relativeUrl: true
 layout: project
 ---
