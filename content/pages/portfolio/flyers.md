@@ -38,22 +38,22 @@ layout: project
 
 ***Flyer :** Je Consomme Gabonais lors de la campagne de promotion de ses services.*
 
-**![](/images/Start%20X%20241%20-%20Instagram.png)
+\*\*![](/images/Start%20X%20241%20-%20Instagram.png)
 
 ***Flyer :** Start X 241 lors du recrutement des commerciaux et manageurs de son programme Startup School.*
 
-**![](/images/WIA%20-%20Flyer%20Campaign-c86a38b0.png)
+\*\*![](/images/WIA%20-%20Flyer%20Campaign-c86a38b0.png)
 
 ***Flyer :** Women Of Impact Academy lors de la campagne de soutien des orphelines vivant en Guinée.*
 
-**![](/images/Adobe_Post\_20210622\_1937410.9572491456551985.png)
+\*\*![](/images/Adobe_Post\_20210622\_1937410.9572491456551985.png)
 
 ***Flyer :** Ntchaga, pour la promotion de leurs produits quittant le Cameroun pour le Gabon.*
 
-**![](/images/Start%20X%20241%20-%20Facebook.png)
+\*\*![](/images/Start%20X%20241%20-%20Facebook.png)
 
 ***Flyer :** Start X 241, annonce du lancement du programme de formation Startup School.*
 
-**![](/images/Start%20X%20241%20-%20Compagen%20e-Mailing.png)
+\*\*![](/images/Start%20X%20241%20-%20Compagen%20e-Mailing.png)
 
-Flyer : Start X 241, affiche réalisée lors de la campagne d'e-mailing et pour les critères d'éligibilité à la Startup School.
+***Flyer :** Start X 241, affiche réalisée lors de la campagne d'e-mailing et pour les critères d'éligibilité à la Startup School.*
