@@ -17,7 +17,9 @@ seo:
       value: Prototypes & Maquettes
       keyName: property
     - name: 'og:description'
-      value: This is the project 7 description
+      value: >-
+        Prototypes et maquettes créés par Yoen Agondjo pour les entreprises
+        et/ou particuliers.
       keyName: property
     - name: 'og:image'
       value: images/7.jpg
