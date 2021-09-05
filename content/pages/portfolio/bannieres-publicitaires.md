@@ -36,4 +36,4 @@ layout: project
 ---
 ![](/images/Start%20X%20241%20-%20LinkedIn%20\(1\).png)
 
-***Bannières Publicitaires :** Start X 241 lors du lancement de la Startup School (École de Management pour les Commerciaux & les Manageurs)*
+***Bannière Publicitaire :** Start X 241 lors du lancement de la Startup School (École de Management pour les Commerciaux & les Manageurs)*
