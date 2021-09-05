@@ -31,7 +31,7 @@ seo:
       value: Sites Web & Mobiles
     - name: 'twitter:description'
       value: >-
-        Sites web créés par Yoen Agondjo pour les entreprises et/ou
+        Sites web et mobiles créés par Yoen Agondjo pour les entreprises et/ou
         particuliers.
     - name: 'twitter:image'
       value: images/4.jpg
