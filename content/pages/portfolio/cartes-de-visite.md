@@ -17,7 +17,9 @@ seo:
       value: Cartes De Visite
       keyName: property
     - name: 'og:description'
-      value: This is the project 6 description
+      value: >-
+        Cartes de visite créées par Yoen Agondjo pour les entreprises et/ou
+        particuliers.
       keyName: property
     - name: 'og:image'
       value: images/6.jpg
