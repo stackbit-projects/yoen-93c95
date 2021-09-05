@@ -30,7 +30,9 @@ seo:
     - name: 'twitter:title'
       value: Brochures
     - name: 'twitter:description'
-      value: This is the project 5 description
+      value: >-
+        Brochures créées par Yoen Agondjo pour les entreprises et/ou
+        particuliers.
     - name: 'twitter:image'
       value: images/5.jpg
       relativeUrl: true
