@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: Flyers créés par Yoen Agondjo pour les entreprises et/ou particuliers.
     - name: 'twitter:image'
-      value: images/3.jpg
+      value: /images/Start X 241 - Notre affiche de porte.png
       relativeUrl: true
 layout: project
 ---
