@@ -18,7 +18,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Sites web créés par Yoen Agondjo pour les entreprises et/ou
+        Sites web et mobiles créés par Yoen Agondjo pour les entreprises et/ou
         particuliers.
       keyName: property
     - name: 'og:image'
