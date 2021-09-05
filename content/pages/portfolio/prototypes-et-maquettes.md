@@ -30,7 +30,9 @@ seo:
     - name: 'twitter:title'
       value: Prototypes & Maquettes
     - name: 'twitter:description'
-      value: This is the project 7 description
+      value: >-
+        Prototypes et maquettes créés par Yoen Agondjo pour les entreprises
+        et/ou particuliers.
     - name: 'twitter:image'
       value: images/7.jpg
       relativeUrl: true
