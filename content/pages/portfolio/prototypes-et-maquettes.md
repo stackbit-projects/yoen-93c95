@@ -34,7 +34,7 @@ seo:
         Prototypes et maquettes créés par Yoen Agondjo pour les entreprises
         et/ou particuliers.
     - name: 'twitter:image'
-      value: images/7.jpg
+      value: /images/Yoen Agondjo - Prototypes et Maquettes (1)-81963cbb.png
       relativeUrl: true
 layout: project
 ---
