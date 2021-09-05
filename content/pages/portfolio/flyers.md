@@ -1,6 +1,6 @@
 ---
 title: Flyers
-subtitle: Un aperçu des cartes de visite que j'ai pu concevoir.
+subtitle: Un aperçu des flyers que j'ai pu concevoir.
 date: '2019-04-08'
 thumb_image: /images/WIA Flyer.png
 thumb_image_alt: Flyer de WIA
