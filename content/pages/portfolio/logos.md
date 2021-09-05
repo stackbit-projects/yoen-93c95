@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: Logos
     - name: 'twitter:description'
-      value: This is the project 2 description
+      value: Logos créés par Yoen Agondjo pour les entreprises et/ou particuliers.
     - name: 'twitter:image'
       value: images/2.jpg
       relativeUrl: true
