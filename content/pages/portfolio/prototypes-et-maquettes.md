@@ -1,6 +1,6 @@
 ---
 title: Prototypes & Maquettes
-subtitle: Un aperçu des cartes de visite que j'ai pu concevoir.
+subtitle: Un aperçu des prototypes et maquettes que j'ai pu concevoir.
 date: '2018-01-15'
 thumb_image: /images/Yoen Agondjo - Prototypes et Maquettes (2).png
 thumb_image_alt: Prototypes & Maquettes
