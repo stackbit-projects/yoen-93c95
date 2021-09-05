@@ -22,7 +22,7 @@ seo:
         particuliers.
       keyName: property
     - name: 'og:image'
-      value: images/5.jpg
+      value: '/images/[GetPaidStock.com]-6132ff9507f40.jpg'
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
