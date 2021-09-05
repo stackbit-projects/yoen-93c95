@@ -34,7 +34,7 @@ seo:
         Bannières publicitaires créées par Yoen Agondjo pour les entreprises
         et/ou particuliers.
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: '/images/[GetPaidStock.com]-6132fd0b355b9.jpg'
       relativeUrl: true
 layout: project
 ---
