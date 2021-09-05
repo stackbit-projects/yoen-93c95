@@ -60,26 +60,26 @@ layout: project
 
 ***Flyer :** Start X 241, affiche réalisée lors de la campagne d'e-mailing et pour les critères d'éligibilité à la Startup School.*
 
-**
+\*\*
 
-**![](/images/1186-ai.png)
+![](/images/1186-ai.png)
 
 ***Flyer :** Start X 241, annonce de la startup studio, ses débouchés et ses conditions d'éligibilité.*
 
-**
+\*\*
 
-**![](/images/Daniel%20Makaya%20-%20Flyer.jpg)
+![](/images/Daniel%20Makaya%20-%20Flyer.jpg)
 
 ***Flyer :** Danse & Thérapie de Daniel BOUANGA, annonce d'une formation pour l'institut français.*
 
-**
+\*\*
 
-**![](/images/Agence%20241%20-%20Pack%20Attack.png)
+![](/images/Agence%20241%20-%20Pack%20Attack.png)
 
 ***Flyer :** Agence 241, flyer pour évènement proposant des comptes Canva aux abonnés.*
 
-**
+\*\*
 
-**![](/images/Formation-%20Spark%20Post.png)
+![](/images/Formation-%20Spark%20Post.png)
 
 ***Flyer :** Premier flyer réalisé avec un smartphone lors de mes débuts avec l'outil Adobe Spark Post.*
