@@ -17,7 +17,9 @@ seo:
       value: Brochures
       keyName: property
     - name: 'og:description'
-      value: This is the project 5 description
+      value: >-
+        Brochures créées par Yoen Agondjo pour les entreprises et/ou
+        particuliers.
       keyName: property
     - name: 'og:image'
       value: images/5.jpg
