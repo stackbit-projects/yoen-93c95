@@ -34,7 +34,7 @@ seo:
         Sites web et mobiles créés par Yoen Agondjo pour les entreprises et/ou
         particuliers.
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: '/images/[GetPaidStock.com]-6132fd8bb845b.jpg'
       relativeUrl: true
 layout: project
 ---
