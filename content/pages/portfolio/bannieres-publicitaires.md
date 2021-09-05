@@ -17,7 +17,9 @@ seo:
       value: Bannières Publicitaires.
       keyName: property
     - name: 'og:description'
-      value: This is the project 1 description
+      value: >-
+        Bannières publicitaires créées par Yoen Agondjo pour les entreprises
+        et/ou particuliers.
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
