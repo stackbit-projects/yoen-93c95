@@ -7,7 +7,7 @@ thumb_image_alt: Logos
 image: /images/Logo - NTCHAGA (7).png
 image_alt: Logos
 seo:
-  title: Project Title 2
+  title: Logos
   description: This is the project 2 description
   extra:
     - name: 'og:type'
