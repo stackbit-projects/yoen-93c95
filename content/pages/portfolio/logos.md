@@ -17,7 +17,7 @@ seo:
       value: Logos
       keyName: property
     - name: 'og:description'
-      value: This is the project 2 description
+      value: Logos créés par Yoen Agondjo pour les entreprises et/ou particuliers.
       keyName: property
     - name: 'og:image'
       value: /images/Logo.png
