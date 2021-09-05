@@ -30,7 +30,9 @@ seo:
     - name: 'twitter:title'
       value: Bannières Publicitaires
     - name: 'twitter:description'
-      value: This is the project 1 description
+      value: >-
+        Bannières publicitaires créées par Yoen Agondjo pour les entreprises
+        et/ou particuliers.
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
