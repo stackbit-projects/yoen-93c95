@@ -34,4 +34,6 @@ seo:
       relativeUrl: true
 layout: project
 ---
-***Brochure : **ESCT Gabon lors de la campagne pour recenser plus d'étudiants pour l'année 2021-2022.*
+****![](/images/Brochure%20ESCT%20Gabon%20-%20Fiche%201.png)
+
+***Brochure :*** *ESCT Gabon lors de la campagne pour recenser plus d'étudiants pour l'année 2021-2022.*
