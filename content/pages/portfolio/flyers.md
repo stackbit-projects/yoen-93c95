@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:title'
       value: Flyers
     - name: 'twitter:description'
-      value: This is the project 3 description
+      value: Flyers créés par Yoen Agondjo pour les entreprises et/ou particuliers.
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
