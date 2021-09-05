@@ -8,7 +8,7 @@ image: /images/Logo - NTCHAGA (7).png
 image_alt: Logos
 seo:
   title: Logos
-  description: This is the project 2 description
+  description: Logos créés par Yoen Agondjo pour les entreprises et/ou particuliers.
   extra:
     - name: 'og:type'
       value: website
