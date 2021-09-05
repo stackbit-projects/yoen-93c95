@@ -22,7 +22,7 @@ seo:
         et/ou particuliers.
       keyName: property
     - name: 'og:image'
-      value: images/7.jpg
+      value: /images/Yoen Agondjo - Prototypes et Maquettes (1)-81963cbb.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
