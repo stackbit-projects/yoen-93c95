@@ -34,7 +34,7 @@ seo:
         Cartes de visite créées par Yoen Agondjo pour les entreprises et/ou
         particuliers.
     - name: 'twitter:image'
-      value: images/6.jpg
+      value: /images/1-5481163c.jpg
       relativeUrl: true
 layout: project
 ---
