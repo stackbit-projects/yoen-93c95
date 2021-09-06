@@ -59,7 +59,7 @@ sections:
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
-          réunir les africains et résoudre les problèmes de l'Afrique et du
+          Réunir les africains et résoudre les problèmes de l'Afrique et du
           reste du monde grâce au numérique.
     subtitle: Mon objectif...
   - section_id: latest-posts
