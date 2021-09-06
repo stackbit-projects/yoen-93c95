@@ -95,7 +95,7 @@ seo:
         Designer Web Marketing Digital de formation.
       keyName: property
     - name: 'og:image'
-      value: /images/Yoen Agondjo - Contact.png
+      value: /images/104340299_120976616309409_5804067444720146620_n.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
