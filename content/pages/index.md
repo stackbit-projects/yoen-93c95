@@ -57,7 +57,7 @@ sections:
     testimonials:
       - author: Sean Salazar
         avatar: /images/Yoen Agondjo - Contact-9e47499a.png
-        avatar_alt: Sean Salazar's photo
+        avatar_alt: Yoen Agondjo
         content: >-
           Réunir les africains et résoudre les problèmes de l'Afrique et du
           reste du monde grâce au numérique.
