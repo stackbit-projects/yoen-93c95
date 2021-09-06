@@ -41,9 +41,17 @@ sections:
           App - VideoScribe - Plotagon***
       - title: Développement Web
         content: >
-          HTML - CSS - Bootstrap - WordPress - Wix - Webflow - Webself - Jekyll
-          - Ruby On Rails - Landen - Stackabl - Weebly - Google Sites -
-          Dreamweaver - Pinegrow - Elementor - Divi - WooCommerce
+          Je prends un projet Web qui a été pensé et réfléchi par un client ou
+          une équipe de conception et je le transforme en site Web. Je le fais
+          en écrivant des lignes de code. Pour les écrire, j'utilise différents
+          langages avec une spécificité et une utilité pour chacun d’entre eux.
+
+
+
+
+          ***HTML - CSS - Bootstrap - WordPress - Wix - Webflow - Webself -
+          Jekyll - Ruby On Rails - Landen - Stackabl - Weebly - Google Sites -
+          Dreamweaver - Pinegrow - Elementor - Divi - WooCommerce***
       - title: Rédacteur Web
         content: >
           AfriTubes - YouScribe - Wattpad - Medium - Blogger - Write.as - Tumblr
