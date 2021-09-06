@@ -54,9 +54,16 @@ sections:
           Dreamweaver - Pinegrow - Elementor - Divi - WooCommerce***
       - title: Rédacteur Web
         content: >
-          AfriTubes - YouScribe - Wattpad - Medium - Blogger - Write.as - Tumblr
-          - Facebppk Pages & Groups - Instagram Pages - LinkedIn Pages -
-          Wikipedia - Citations Célèbres - Webtoon
+          Je suis en charge de la rédaction de contenus pour un ou plusieurs
+          sites web et je travaille généralement sous la direction d’un
+          responsable éditorial en charge d’élaborer une stratégie de contenu
+          spécifique à chaque plateforme web.
+
+
+
+          ***AfriTubes - YouScribe - Wattpad - Medium - Blogger - Write.as -
+          Tumblr - Facebppk Pages & Groups - Instagram Pages - LinkedIn Pages -
+          Wikipedia - Citations Célèbres - Webtoon***
       - title: Autres Outils
         content: >
           Trello - Slack - Monday.com - ClickUp - Google Slides - Google Drive -
