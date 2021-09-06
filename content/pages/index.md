@@ -31,14 +31,14 @@ sections:
     grid_items:
       - title: Infographie
         content: >
-          ##### Je réalise des images et des graphismes en deux dimensions pour
-          un site internet ou une édition papier de supports de communication
-          (affiches, flyers, logos, images, animations, etc.). 
+          Je réalise des images et des graphismes en deux dimensions pour un
+          site internet ou une édition papier de supports de communication
+          (affiches, flyers, logos, images, animations, etc.).
 
 
-          Canva - Adobe XD - Figma - Photopea - Adobe Photoshop - Adobe Premiere
-          - Adobe After Effects - Filmora - Adobe Spark Post - InVision App -
-          VideoScribe - Plotagon
+          ***Canva - Adobe XD - Figma - Photopea - Adobe Photoshop - Adobe
+          Premiere - Adobe After Effects - Filmora - Adobe Spark Post - InVision
+          App - VideoScribe - Plotagon***
       - title: Développement Web
         content: >
           HTML - CSS - Bootstrap - WordPress - Wix - Webflow - Webself - Jekyll
