@@ -62,9 +62,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla.
-    subtitle: >-
-      Tous les retours, positifs comme négatifs, qui m'ont permis d'évoluer en
-      compétence et en caractère.
+    subtitle: 'Mon objectif '
   - section_id: latest-posts
     type: section_posts
     title: Mes Derniers Articles
