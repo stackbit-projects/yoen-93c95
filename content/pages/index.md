@@ -52,7 +52,7 @@ sections:
           - Forest.app - Wrike - Hibox - Miro - Nutcache
   - section_id: testimonials
     type: section_testimonials
-    title: Ce Qu'Ils Disent De Moi
+    title: Ce Que Je Veux Faire
     col_number: three
     testimonials:
       - author: Sean Salazar
