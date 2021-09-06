@@ -107,7 +107,7 @@ seo:
         Site web de présentation de mes services et produits. Je suis un
         Designer Web Marketing Digital de formation.
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: /images/104340299_120976616309409_5804067444720146620_n.jpg
       relativeUrl: true
 layout: advanced
 ---
