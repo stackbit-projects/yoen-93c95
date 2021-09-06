@@ -55,7 +55,7 @@ sections:
     title: Ce Que Je Veux Faire
     col_number: three
     testimonials:
-      - author: Sean Salazar
+      - author: Yoen Agondjo
         avatar: /images/Yoen Agondjo - Contact-9e47499a.png
         avatar_alt: Yoen Agondjo
         content: >-
