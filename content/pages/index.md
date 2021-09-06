@@ -56,7 +56,7 @@ sections:
     col_number: three
     testimonials:
       - author: Sean Salazar
-        avatar: images/sean_salazar.jpg
+        avatar: /images/Yoen Agondjo - Contact-9e47499a.png
         avatar_alt: Sean Salazar's photo
         content: >-
           Réunir les africains et résoudre les problèmes de l'Afrique et du
