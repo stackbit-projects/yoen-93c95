@@ -66,10 +66,15 @@ sections:
           Wikipedia - Citations Célèbres - Webtoon***
       - title: Autres Outils
         content: >
-          Trello - Slack - Monday.com - ClickUp - Google Slides - Google Drive -
-          Google My Business - Google Docs - Google Sheet - Microsoft Word -
-          Microsoft Power Point - Microsoft Excell - Odoo - Ecwid - Mobitrix 24
-          - Forest.app - Wrike - Hibox - Miro - Nutcache
+          J'aime travailler de manière organisée. Pour cela, j'utilise pas mal
+          d'outils de collaboration ou d'édition de contenus pour atteindre mes
+          objectifs et rendre mes travaux dans les délais fixés.
+
+
+          ***Trello - Slack - Monday.com - ClickUp - Google Slides - Google
+          Drive - Google My Business - Google Docs - Google Sheet - Microsoft
+          Word - Microsoft Power Point - Microsoft Excell - Odoo - Ecwid -
+          Mobitrix 24 - Forest.app - Wrike - Hibox - Miro - Nutcache***
   - section_id: testimonials
     type: section_testimonials
     title: Ce Que Je Veux Faire
