@@ -58,7 +58,7 @@ layout: project
 
 ![](/images/Ogoou%C3%A9%20Labs%20-%20Site%20Web.png)
 
-***Site Web :** *[*Ogooué Labs*](https://ogoouelabs.com)
+**Site Web :** [*Ogooué Labs*](https://ogoouelabs.com)
 
 <br><br>
 
