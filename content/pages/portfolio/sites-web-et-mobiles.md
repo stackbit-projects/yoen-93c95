@@ -46,7 +46,7 @@ layout: project
 
 ![](/images/%C3%89cole%20241%20Business%20-%20Site%20Web.png)
 
-***Site Web :** *[*École 241 Business*](https://business.ecole241.org)
+***Site Web :** [*École 241 Business*](https://business.ecole241.org)
 
 
 
