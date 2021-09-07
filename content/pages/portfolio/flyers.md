@@ -52,7 +52,7 @@ layout: project
 
 <br><br>
 
-\*\*![](/images/Adobe_Post\_20210622\_1937410.9572491456551985.png)
+![](/images/Adobe_Post\_20210622\_1937410.9572491456551985.png)
 
 ***Flyer :** Ntchaga, pour la promotion de leurs produits quittant le Cameroun pour le Gabon.*
 
