@@ -46,7 +46,7 @@ layout: project
 
 <br>
 
-**![](/images/La%20bouffette%20de%20Migui-2.png)
+![](/images/La%20bouffette%20de%20Migui-2.png)
 
 ***Logo :** La Bouffette De Migui*
 
