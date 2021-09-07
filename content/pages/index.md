@@ -84,8 +84,8 @@ sections:
         avatar: /images/Yoen Agondjo - Contact-9e47499a.png
         avatar_alt: Yoen Agondjo
         content: >-
-          Réunir les africains et résoudre les problèmes de l'Afrique et du
-          reste du monde grâce au numérique.
+          Réunir les Africains et résoudre les problèmes de l'Afrique et du
+          reste du Monde grâce au Numérique.
     subtitle: Mon objectif...
   - section_id: latest-posts
     type: section_posts
