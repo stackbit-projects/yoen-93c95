@@ -48,9 +48,9 @@ layout: project
 
 **Site Web :** [*École 241 Business*](https://business.ecole241.org)
 
+<br><br>
 
-
-**![](/images/Divetha%20-%20Site%20Web.png)
+![](/images/Divetha%20-%20Site%20Web.png)
 
 ***Site Web :** *[*Divetha*](https://divetha.com)
 
