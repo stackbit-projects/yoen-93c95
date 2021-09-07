@@ -42,9 +42,9 @@ layout: project
 
 ***Site Web :** *[*Marché De Noel 241*](https://marchedenoel241.com)* *
 
-**
+<br><br>
 
-**![](/images/%C3%89cole%20241%20Business%20-%20Site%20Web.png)
+![](/images/%C3%89cole%20241%20Business%20-%20Site%20Web.png)
 
 ***Site Web :** *[*École 241 Business*](https://business.ecole241.org)
 
