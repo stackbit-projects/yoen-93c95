@@ -41,3 +41,17 @@ layout: project
 ![](/images/Start%20X%20241%20-%20LinkedIn%20\(1\).png)
 
 ***Bannière Publicitaire :** Start X 241 lors du lancement de la Startup School (École de Management pour les Commerciaux & les Manageurs)*
+
+**![](/images/ELS%20-%20Affiche%20publicitaire.jpg)
+
+***Bannière Publicitaire :** Pour le lancement des services de ma petite sœur Elisina Rosa.*
+
+**![](/images/Mat%20Coaching%20And%20Consulting%20-%20Cover.jpg)
+
+***Bannière Publicitaire :** Pour Mat Coaching & Consulting, Toronto (Canada).*
+
+**![](/images/Louis%20Paul%20Modoss%20-%20Affiche%20de%20podcast.png)
+
+***Bannière Publicitaire :** Pour Louis Paul MODOSS lors de sa chronique.*
+
+**
