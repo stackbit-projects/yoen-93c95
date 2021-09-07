@@ -58,7 +58,7 @@ layout: project
 
 <br><br>
 
-\*\*![](/images/Start%20X%20241%20-%20Facebook.png)
+![](/images/Start%20X%20241%20-%20Facebook.png)
 
 ***Flyer :** Start X 241, annonce du lancement du programme de formation Startup School.*
 
