@@ -42,7 +42,9 @@ layout: project
 
 ***Bannière Publicitaire :** Start X 241 lors du lancement de la Startup School (École de Management pour les Commerciaux & les Manageurs)*
 
-\*\*![](/images/ELS%20-%20Affiche%20publicitaire.jpg)
+<br><br>
+
+![](/images/ELS%20-%20Affiche%20publicitaire.jpg)
 
 ***Bannière Publicitaire :** Pour le lancement des services de ma petite sœur Elisina Rosa.*
 
