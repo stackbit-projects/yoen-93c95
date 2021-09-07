@@ -58,7 +58,7 @@ layout: project
 
 <br>
 
-**![](/images/e-Kanda%20-%20Logo.png)
+![](/images/e-Kanda%20-%20Logo.png)
 
 ***Logo :** E-Kanda*
 
