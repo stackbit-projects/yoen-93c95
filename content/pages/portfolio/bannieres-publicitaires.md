@@ -54,7 +54,7 @@ layout: project
 
 ***Bannière Publicitaire :** Pour Louis Paul MODOSS lors de sa chronique.*
 
-\*\*
+<br><br>
 
 ![](/images/Flyer%20-%20R%C3%A9f%C3%A9rent%20Digital.jpg)
 
