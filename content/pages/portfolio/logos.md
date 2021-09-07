@@ -66,4 +66,4 @@ layout: project
 
 ![](/images/Association%20des%20Jeunes%20Originaires%20de%20Mouanda%20\(2\).png)
 
-***Logo :**AJOM*
+***Logo :** AJOM*
