@@ -77,6 +77,7 @@ layout: project
 
 ***Flyer :** Start X 241, annonce de la startup studio, ses débouchés et ses conditions d'éligibilité.*
 
+<br><br>
 \*\*
 
 ![](/images/Daniel%20Makaya%20-%20Flyer.jpg)
