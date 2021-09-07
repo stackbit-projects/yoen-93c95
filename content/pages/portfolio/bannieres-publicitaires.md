@@ -50,7 +50,9 @@ layout: project
 
 ***Bannière Publicitaire :** Pour Mat Coaching & Consulting, Toronto (Canada).*
 
-\*\*![](/images/Louis%20Paul%20Modoss%20-%20Affiche%20de%20podcast.png)
+<br><br>
+
+![](/images/Louis%20Paul%20Modoss%20-%20Affiche%20de%20podcast.png)
 
 ***Bannière Publicitaire :** Pour Louis Paul MODOSS lors de sa chronique.*
 
