@@ -40,7 +40,7 @@ layout: project
 ---
 ![](/images/March%C3%A9%20De%20Noel%20-%20Site%20Web.png)
 
-***Site Web :** *[*Marché De Noel 241*](https://marchedenoel241.com)* 
+**Site Web :** *[*Marché De Noel 241*](https://marchedenoel241.com)* 
 
 <br><br>
 
