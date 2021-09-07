@@ -40,7 +40,7 @@ layout: project
 
 <br><br>
 
-\*\*![](/images/Start%20X%20241%20-%20Instagram.png)
+![](/images/Start%20X%20241%20-%20Instagram.png)
 
 ***Flyer :** Start X 241 lors du recrutement des commerciaux et manageurs de son programme Startup School.*
 
