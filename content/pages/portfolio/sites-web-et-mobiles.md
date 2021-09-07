@@ -60,8 +60,8 @@ layout: project
 
 ***Site Web :** *[*Ogooué Labs*](https://ogoouelabs.com)
 
-
+<br><br>
 
 ![](/images/FBHO%20-%20Site%20Web.png)
 
-***Site Web :** *[*FBHO*](https://fbho-ga.com)
+**Site Web :** *[*FBHO*](https://fbho-ga.com)
