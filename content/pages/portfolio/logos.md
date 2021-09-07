@@ -56,7 +56,7 @@ layout: project
 
 ***Logo :** Usi-Yann*
 
-**
+<br>
 
 **![](/images/e-Kanda%20-%20Logo.png)
 
