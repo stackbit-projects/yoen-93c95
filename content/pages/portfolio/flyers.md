@@ -70,6 +70,7 @@ layout: project
 
 ***Flyer :** Start X 241, affiche réalisée lors de la campagne d'e-mailing et pour les critères d'éligibilité à la Startup School.*
 
+<br><br>
 \*\*
 
 ![](/images/1186-ai.png)
