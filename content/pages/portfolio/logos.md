@@ -38,7 +38,7 @@ layout: project
 
 ***Logo :** HBP Agro-Consulting*
 
-**
+<br>
 
 ![](/images/Logo.png)
 
