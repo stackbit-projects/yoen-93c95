@@ -46,7 +46,7 @@ layout: project
 
 <br><br>
 
-\*\*![](/images/WIA%20-%20Flyer%20Campaign-c86a38b0.png)
+![](/images/WIA%20-%20Flyer%20Campaign-c86a38b0.png)
 
 ***Flyer :** Women Of Impact Academy lors de la campagne de soutien des orphelines vivant en Guinée.*
 
