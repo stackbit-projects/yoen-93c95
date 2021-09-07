@@ -44,7 +44,7 @@ layout: project
 
 ***Logo :** La Friperie Chic*
 
-**
+<br>
 
 **![](/images/La%20bouffette%20de%20Migui-2.png)
 
