@@ -56,6 +56,8 @@ layout: project
 
 ***Flyer :** Ntchaga, pour la promotion de leurs produits quittant le Cameroun pour le Gabon.*
 
+<br><br>
+
 \*\*![](/images/Start%20X%20241%20-%20Facebook.png)
 
 ***Flyer :** Start X 241, annonce du lancement du programme de formation Startup School.*
