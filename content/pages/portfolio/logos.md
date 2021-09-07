@@ -50,7 +50,7 @@ layout: project
 
 ***Logo :** La Bouffette De Migui*
 
-**
+<br>
 
 **![](/images/USI-YANN+3.png)
 
