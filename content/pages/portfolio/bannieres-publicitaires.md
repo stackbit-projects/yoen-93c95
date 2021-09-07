@@ -46,7 +46,9 @@ layout: project
 
 ***Bannière Publicitaire :** Pour le lancement des services de ma petite sœur Elisina Rosa.*
 
-\*\*![](/images/Mat%20Coaching%20And%20Consulting%20-%20Cover.jpg)
+<br><br>
+
+![](/images/Mat%20Coaching%20And%20Consulting%20-%20Cover.jpg)
 
 ***Bannière Publicitaire :** Pour Mat Coaching & Consulting, Toronto (Canada).*
 
