@@ -84,13 +84,14 @@ layout: project
 
 ***Flyer :** Danse & Thérapie de Daniel BOUANGA, annonce d'une formation pour l'institut français.*
 
-
+<br><br>
 \*\*
 
 ![](/images/Agence%20241%20-%20Pack%20Attack.png)
 
 ***Flyer :** Agence 241, flyer pour évènement proposant des comptes Canva aux abonnés.*
 
+<br><br>
 \*\*
 
 ![](/images/Formation-%20Spark%20Post.png)
