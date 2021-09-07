@@ -52,7 +52,7 @@ layout: project
 
 ![](/images/Divetha%20-%20Site%20Web.png)
 
-***Site Web :** *[*Divetha*](https://divetha.com)
+**Site Web :** [*Divetha*](https://divetha.com)
 
 <br><br>
 
