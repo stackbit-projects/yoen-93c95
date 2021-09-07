@@ -64,4 +64,4 @@ layout: project
 
 ![](/images/FBHO%20-%20Site%20Web.png)
 
-**Site Web :** *[*FBHO*](https://fbho-ga.com)
+**Site Web :** [*FBHO*](https://fbho-ga.com)
