@@ -87,7 +87,6 @@ layout: project
 ***Flyer :** Agence 241, flyer pour évènement proposant des comptes Canva aux abonnés.*
 
 <br><br>
-\*\*
 
 ![](/images/Formation-%20Spark%20Post.png)
 
