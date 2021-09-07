@@ -38,11 +38,13 @@ layout: project
 
 ***Flyer :** Je Consomme Gabonais lors de la campagne de promotion de ses services.*
 
-<br>
+<br><br>
 
 \*\*![](/images/Start%20X%20241%20-%20Instagram.png)
 
 ***Flyer :** Start X 241 lors du recrutement des commerciaux et manageurs de son programme Startup School.*
+
+<br><br>
 
 \*\*![](/images/WIA%20-%20Flyer%20Campaign-c86a38b0.png)
 
