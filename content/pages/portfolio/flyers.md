@@ -81,7 +81,6 @@ layout: project
 ***Flyer :** Danse & Thérapie de Daniel BOUANGA, annonce d'une formation pour l'institut français.*
 
 <br><br>
-\*\*
 
 ![](/images/Agence%20241%20-%20Pack%20Attack.png)
 
