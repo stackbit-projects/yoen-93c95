@@ -52,7 +52,7 @@ layout: project
 
 <br>
 
-**![](/images/USI-YANN+3.png)
+![](/images/USI-YANN+3.png)
 
 ***Logo :** Usi-Yann*
 
