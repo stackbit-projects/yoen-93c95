@@ -6,9 +6,8 @@ sections:
     type: section_hero
     title: 'Mbôlô, je suis Yoen Agondjo, Designer Web Marketing Digital'
     content: >
-      \<style="color:white">J'améliore l'interface et l'expérience de mes
-      utilisateurs en concevant des produits à la fois agréables et ergonomiques
-      !\</style>
+      J'améliore l'interface et l'expérience de mes utilisateurs en concevant
+      des produits à la fois agréables et ergonomiques !
     actions:
       - label: Contactez-Moi !
         url: /contact
